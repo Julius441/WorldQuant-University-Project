@@ -6,6 +6,7 @@ The Project highlights:
    
 2.	APARTMENT SALES IN BUENOS AIRES: Built a machine learning model that predicts apartment prices in Buenos Aires, Argentina. Created a linear regression model using the scikit-learn library, built a data pipeline for imputing missing values and encoding categorical features, improved model performance by reducing overfitting and created a dynamic dashboard for interacting with the model.
 
+3.	AIR QUALITY IN NAIROBI: Extracted data from MongoDB and built an ARMA time-series model to predict particulate matter concentration in Nairobi, Kenya. Improved model performance through hyperparameter tuning and balanced model performance with computation cost.
 
 
 
